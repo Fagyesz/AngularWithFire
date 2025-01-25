@@ -2,13 +2,16 @@ export const environment = {
   useEmulators: false,
   logLevel: 0, // See https://unjs.io/packages/consola#log-level
   firebaseConfig: {
-    apiKey: 'AIzaSyAlU3Zb-MVoSEbtyQF9iE-8sMbtO5g8KHk',
-    authDomain: 'angular-and-firebase-template.firebaseapp.com',
-    databaseURL:
-      'https://angular-and-firebase-template-default-rtdb.europe-west1.firebasedatabase.app',
-    projectId: 'angular-and-firebase-template',
-    storageBucket: 'angular-and-firebase-template.appspot.com',
-    messagingSenderId: '969949968791',
-    appId: '1:969949968791:web:5fc00773f2f48a105a2cd2',
+  
+    //databaseURL:
+   //   'https://angular-and-firebase-template-default-rtdb.europe-west1.firebasedatabase.app',
+   apiKey: "AIzaSyApSls7Q347UekrAeod0zkl-_srrvDNXro",
+   authDomain: "bapti-50b84.firebaseapp.com",
+   projectId: "bapti-50b84",
+   storageBucket: "bapti-50b84.firebasestorage.app",
+   messagingSenderId: "756194112208",
+   appId: "1:756194112208:web:3d77619a7ea9ece62f24d5",
+   measurementId: "G-4SEQPT1WMZ"
   },
 };
+
